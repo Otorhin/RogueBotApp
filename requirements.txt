@@ -1,0 +1,5 @@
+kivy.deps.angle
+kivy.deps.glew
+kivy.deps.sdl2
+Kivy=1.10.0
+-e git+https://gitlab.com/kivymd/KivyMD.git
